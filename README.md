@@ -4,7 +4,7 @@ This is (or is going to be) an OWL Ontology Browser.
 
 It is actually a method of learning how to use Spring Boot and React with Maven and all the things. And HotReloading. 
 
-ditto no text at all
+text
 
 ## Quickstop
 To run the app you just need to:
