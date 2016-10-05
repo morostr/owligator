@@ -1,5 +1,6 @@
 /**
  * Created by morten on 21/09/16.
+ * But not really a good comment
  */
 
 import {take, put, call, fork, select} from 'redux-saga/effects'
