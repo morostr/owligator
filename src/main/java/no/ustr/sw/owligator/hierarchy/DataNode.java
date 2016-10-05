@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by morten on 30/09/16.
+ * Class that represents a node in a graph. Made for automatic conversion to JSON *
  */
 public class DataNode {
     public final String nodeId;

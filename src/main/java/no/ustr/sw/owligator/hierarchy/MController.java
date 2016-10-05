@@ -16,7 +16,9 @@ import java.util.List;
 
 import static org.apache.jena.vocabulary.RDFS.subClassOf;
 
-
+/**
+ * Controller for the Hierarchy Service
+ */
 @RestController
 public class MController {
 
@@ -48,7 +50,7 @@ public class MController {
             RDFNode r = qs.get("Concept");
             System.out.println("found : " + r.toString());
         }
-
+        System.out.println("Adding code here for fun");
 	}
 
 

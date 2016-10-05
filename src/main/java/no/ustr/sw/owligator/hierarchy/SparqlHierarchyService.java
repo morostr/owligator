@@ -76,15 +76,6 @@ public class SparqlHierarchyService {
         ResultSet s = qex.execSelect();
         HashMap<String,String> map = new HashMap<>();
 
-        /*String idVar = s.getResultVars()
-                        .stream()
-                        .filter(r->r.equalsIgnoreCase("id") || r.equalsIgnoreCase("uri"))
-                        .findFirst()
-                        .map(ss -> ss)
-                        .orElseThrow(IllegalArgumentException::new) ;
-        */
-
-
         final String idVar = "id";
         final String labelVar = "label";
 
