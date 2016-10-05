@@ -1,7 +1,9 @@
-# Spring Boot and React starter app
+# Owligator
 
-> Starter webapp using Spring Boot on the backend and React on the frontend, with 
-Maven and Webpack as build tools, hot reloading on both sides and without xml configuration.
+This is (or is going to be) an OWL Ontology Browser. 
+
+It is actually a way to learn how to use Spring Boot and React with Maven and all the things. 
+And HotReloading. 
 
 ## Quickstart
 To run the app you just need to:
