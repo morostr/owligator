@@ -16,7 +16,9 @@ import java.util.List;
 
 import static org.apache.jena.vocabulary.RDFS.subClassOf;
 
-
+/**
+ * Controller for the Hierarchy Service
+ */
 @RestController
 public class MController {
 
