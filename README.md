@@ -2,8 +2,8 @@
 
 This is (or is going to be) an OWL Ontology Browser. 
 
-It is actually a way to learn how to use Spring Boot and React with Maven and all the things. 
-And HotReloading. 
+It is actually a way to learn how to resolve conflicts in GIT using emacs gitkraken and github. 
+And HotReloading. But not only that . 
 
 ## Quickstart
 To run the app you just need to:
