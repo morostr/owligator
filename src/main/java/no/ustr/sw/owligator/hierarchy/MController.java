@@ -48,7 +48,7 @@ public class MController {
             RDFNode r = qs.get("Concept");
             System.out.println("found : " + r.toString());
         }
-
+        System.out.println("Adding code here for fun"); 
 	}
 
 
