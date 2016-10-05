@@ -2,8 +2,7 @@
 
 This is (or is going to be) an OWL Ontology Browser. 
 
-It is actually a method of learning how to use Spring Boot and React with Maven and all the things. This text is changed to create a conflict. 
-And HotReloading. But not only that. 
+It is actually a method of learning how to use Spring Boot and React with Maven and all the things. And HotReloading. 
 
 ## Quickstop
 To run the app you just need to:
