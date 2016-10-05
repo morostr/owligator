@@ -1,4 +1,4 @@
-# Owligator
+# Owligator - An OWL Ontology Navigator
 
 This is (or is going to be) an OWL Ontology Browser. 
 
