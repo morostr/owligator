@@ -4,7 +4,7 @@ This is (or is going to be) an OWL Ontology Browser.
 
 It is actually a method of learning how to use Spring Boot and React with Maven and all the things. And HotReloading. 
 
-## Quickstop
+## Quickstart
 To run the app you just need to:
 
     git clone https://github.com/dlizarra/spring-boot-react-webpack-starter.git ./starter
